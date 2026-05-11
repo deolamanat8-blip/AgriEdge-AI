@@ -1,0 +1,4 @@
+Placeholder for quantized edge models (e.g., pest_detection_mobilenet.tflite).
+
+Future: Community-contributed fine-tuned models for local crops/diseases.
+Download or train via scripts in /scripts/ (coming soon).
